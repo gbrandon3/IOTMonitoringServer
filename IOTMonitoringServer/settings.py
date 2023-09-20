@@ -19,9 +19,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 
 
-MQTT_HOST = "3.236.135.193"
-ALLOWED_HOSTS = ["localhost", "18.235.1.231"]
-DB_IP="3.239.32.137"
+MQTT_HOST = "18.212.241.61"
+ALLOWED_HOSTS = ["localhost", "3.94.168.47"]
+DB_IP="3.90.250.248"
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
